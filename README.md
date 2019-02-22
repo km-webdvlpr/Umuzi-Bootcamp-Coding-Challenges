@@ -1,4 +1,4 @@
-# Umuzi-Bootcamp-Coding-Challenges-
+# Umuzi Bootcamp Coding Challenges 
 
 JavaScript challenges
 
