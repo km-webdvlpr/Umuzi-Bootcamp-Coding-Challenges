@@ -7,13 +7,11 @@ https://www.youtube.com/watch?v=-r7JwuSdj5M
 function transform(num){
     //Declared function name is transform
 var hrs = Math.floor(num/60);
-    // Math.floor() to round the number down to its nearest whole number.
+    // Math.floor() to round the number down to nearest (integer) whole number.
 var min = num/60;
     // represent number of minutes  
-    
-    return (hrs + "hours" + ":" +min + "minutues").toString();   
+return (hrs + "hours" + ":" + min + "minutes").toString();   
     //two strings for hours and minutes
 }
-
-console.log(transform(444));
+console.log(transform(99));
 //Change num which converts minutes to hours
