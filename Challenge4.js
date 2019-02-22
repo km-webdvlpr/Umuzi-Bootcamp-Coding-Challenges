@@ -1,4 +1,7 @@
 /*Make a JavaScript program to convert any number into hours and minutes. (For example, 71 will become 1 hour, 11 minutes; 133 will become 2 hours, 13 minutes.)
+Reference link used to research problems:
+https://www.tutorialspoint.com/javascript/index.html
+https://www.youtube.com/watch?v=-r7JwuSdj5M
 */
 
 function transform(num){
