@@ -11,7 +11,7 @@ var hrs = Math.floor(num/60);
 var min = num/60;
     // represent number of minutes  
 return (hrs + "hours" + ":" + min + "minutes").toString();   
-    //two strings for hours and minutes
+    //two strings for hours and minutes to represented 
 }
 console.log(transform(99));
 //Change num which converts minutes to hours
